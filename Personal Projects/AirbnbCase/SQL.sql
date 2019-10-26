@@ -1,1 +1,2 @@
-d
+select hi 
+from aloha
